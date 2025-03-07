@@ -1,0 +1,92 @@
+Numer H :Opis numeru H po Polsku :Opis H po angielsku :NUMER PIKTOGRAMU :UWAGA/ NIEBEZPIECZEŃSTWO :INFORMACJE DODATKOWE
+H 200:Materiały wybuchowe, niestabilne:Unstable explosive:GHS01:N:
+H 201:Materiał wybuchowy; zagrożenie wybuchem masowym :Explosive; mass explosion hazard:GHS01:N:
+H 202:Materiał wybuchowy; poważne zagrożenie rozrzutem :Explosive; severe projection hazard:GHS01:N:
+H 203:Materiał wybuchowy; zagrożenie pożarem, wybuchem lub rozrzutem :Explosive; fire, blast, or projection:GHS01:N:
+H 204:Materiał wybuchowy - zagrożenie pożarem:Fire or projection hazard:GHS01:U:
+H 205:Materiał wybuchowy - zagrożenie masową eksplozją w pożarze:May mass explode in fire:GHS01:N:
+H 220:Skrajnie łatwo palny gaz :Extremely flammable gas:GHS02:N:
+H 221:Gaz łatwopalny :Fammable gas:GHS02:U:
+H 222:Skrajnie łatwopalny aerozol:Extremely flammable aerosol:GHS02:N:
+H 223:Aerozol łatwopalny :Flammable aerosol:GHS02:U:
+H 224:Skrajnie łatwopalna ciecz i pary:Extremely flammable liquid and vapour:GHS02:N:
+H 225:Wysoce łatwopalna ciecz i pary:High flammable liquid and vapour:GHS02:N:
+H 226:Łatwopalna ciecz i pary:Flammable liquid and vapour:GHS02:U:
+H 228:Substancja stała łatwopalna:Flammable solid:GHS02:U:
+H 240:Pojemnik pod ciśnieniem; ogrzanie grozi wybuchem:Pressurised container; may burst if heated:GHS02:U:
+H 241:Ogrzanie może spowodować pożar lub wybuch :Heating may cause a fire or explosion:GHS01, GHS02, GHS03:N:
+H 242:Ogrzanie może spowodować pożar :Heating may cause a fire :GHS02, GHS03:U:
+H 250:Samorzutnie zapala się w kontakcie z powietrzem:Catches fire spontaneously if exposed to air:GHS02:N:
+H 251:Substancja samonagrzewająca się w dużych ilościach; może zapłąnąć:Self- heating; may catch fire:GHS02:N:
+H 260:W kontakcie z wodą uwalnia łatwopalne gazy, które mogą ulec samozapaleniu:In contact with water releases flammable gases which may ignite spontaneously:GHS02:N:
+H 261:W kontakcie z wodą uwalnia łatwopalne gazy:In contact with water relases flammable gases:GHS02:U:
+H 270:Może spowodować lub intensyfikować pożar; utleniacz:May cause or intensify fire; oxidizer:GHS03:N:
+H 271:Może spowodować pożar lub wybuch; silny utleniacz:May cause fire or explosion; strong oxidizer:GHS03; GHS01:N:
+H 272:Może intensyfikować pożar; utleniacz:May intensify fire, oxidizer:GHS03:N:
+H 280:Zawiera gaz pod ciśnieniem; ogrzanie grozi wybuchem:Contains gas under pressure; may explode if heated:GHS04:U:
+H 281:Zawiera schłodzony gaz; może spowodować oparzenia lub kriogeniczne obrażenia:Contains refrigerated gas; may cause cryorgenic burns or injury:GHS04:U:
+H 290:Może powodować korozję metali:May be corrosive to metals:GHS05:U:
+H 300:Połknięcie grozi śmiercią:Fatal if swallowed:GHS06:N:
+H 301:Działa toksycznie po połknięciu:Toxic if swallowed:GHS06:N:
+H 302:Działa szkodliwie po połknięciu:Harmful if swallowed:GHS07:U:
+H 304:Połknięcie i dostanie się przez drogi oddechowe może grozić śmiercią:May be fatal if swallowed and enters airways:GHS08:N:
+H 310:Grozi śmiercią w kontakcie ze skórą:Fatal in contact with skin:GHS06, GHS08:N:
+H 311:Działa toksycznie w kontakcie ze skórą:Toxic in contact with skin:GHS06:N:
+H 312:Działa szkodliwie w kontakcie ze skórą:Harmful in contact with skin :GHS07:U:
+H 314:Powoduje poważne oparzenia skóry oraz uszkodzenia oczu:Causes servere skin burns and eye damage:GHS05, GHS07:N:
+H 315:Działa drażniąco na skórę:Causes skin irritation:GHS07:U:
+H 317:Może powodować reakcję alergiczną skóry:May cause an allergic skin reaction:GHS07, GHS08:U:
+H 318:Powoduje poważne uszkodzenie oczu:Causes serious eye damage:GHS05, GHS07:N:
+H 319:Działa drażniąco na oczy:Causes serious eye irritation:GHS07:U:
+H 330:Wdychanie grozi śmiercią:Fatal if inhaled:GHS06, GHS08:N:
+H 331:Działa toksycznie w następstwie wdychania:Toxic if inhaled:GHS06:N:
+H 332:Działa szkodliwie w następstwie wdychania:Harmful if inhaled:GHS07:U:
+H 334:Może powodować objawy alergii lub astmy lub trudności w oddychaniu, w następstwie wdychania:May cause allergy or asthma symptoms or breathing difficultries if inhaled:GHS07, GHS08:N:
+H 335:Może powodować podrażnienie dróg oddechowych:May cause respiratory irritation:GHS07, GHS08:U:
+H 336:Może wywoływać uczucie senności lub zawroty głowy:May cause drowsiness or dizziness:GHS07, GHS08:U:
+H 340:Może powodować wady genetyczne:May cause genetic defects:GHS08:N:
+H 341:Podejrzewa się, że powoduje wady genetyczne:Suspected of causing genetic defects:GHS08:U:
+H 350:Może powodować raka:May cause cancer:GHS08:N:
+H 351:Podejrzewa się, że powoduje raka:Suspected of causing cancer:GHS08:U:
+H 360:Może działać szkodliwie na płodność lub na dziecko w łonie matki:May damage fertility or the unborn child:GHS08:N:
+H 361:Podejrzewa się, że działa szkodliwie na płodność lub na dziecko w łonie matki:Suspected of damaging fertility or the unborn child:GHS08:U:
+H 362:Może działać szkodliwie na dzieci karmione piersią:May cause harm to breast- fed children :GHS08:U:
+H 370:Powoduje uszkodzenie narządów:Causes damage to organs:GHS08:N:
+H 371:Może powodować uszkodzenie narządów:May causes damage to organs:GHS08:U:
+H 372:Powoduje uszkodzenie narządów, poprzez długotrwałe lub powtarzane narażenie:Causes damage to organs through prolonged or repeated exposure:GHS08:N:
+H 373:Może powodować uszkodzenie narządów, poprzez długotrwałe lub powtarzane narażenie:May cause damage to organs through prolonged or repeated exposure:GHS08:U:
+H 400:Działa bardzo toksycznie na organizmy wodne:Very toxic to aquatic life:GHS09:N:
+H 410:Działa bardzo toksycznie na organizmy wodne, powodując długotrwałe skutki:Very toxic to aquatic life with long- lasting effect:GHS09:N:
+H 411:Działa toksycznie na organizmy wodne, powodując długotrwałe skutki:Toxic to aquatic life with long- lasting effect:GHS09:U:
+H 412:Działa szkodliwie na organizmy wodne, powodując długotrwałe skutki:Harmful to aquatic life with long- lasting effect:GHS09:U:
+H 413:Może powodować długotrwałe szkodliwe skutki dla organizmów wodnych:My cause long- lasting harmful effects to aquatic life:GHS09:U:
+H 401:Działa toksycznie na organizmy wodne:Toxic to aquatic life :GHS09:U:
+H 402:Działa szkodliwie na organizmy wodne:Harmuf to aquatic life:GHS09:U:
+H 252:Samonagrzewająca się substancja lub mieszanina; w dużych ilościach może zapłonąć:Self- heating in large quantities; may catch fire:GHS02:U:
+H 229:Pojemnik pod ciśnieniem; ogrzanie grozi wybuchem:Pressurised container; may burst if heated:GHS04:U :
+EUH 001:Produkt wybuchowy w stanie suchym:Explosive when dry:GHS01:U:
+EUH 006:Produkt wybuchowy z dostępem lub bez dostępu powietrza:Explosive with or without contact with air:GHS01:U:
+EUH 014:Reaguje gwałtownie z wodą:Reacts violently with water:GHS01:U:
+EUH 018:Podczas stosowania mogą powstawać łatwopalne lub wybuchowe mieszaniny par z powietrzem:In use, may form flammable/explosive vapour-air mixture:GHS02, GHS03:U:
+EUH 019:Może tworzyć wybuchowe nadtlenki:May form explosive peroxides:GHS01:U:
+EUH 044:Zagrożenie wybuchem po ogrzaniu w zamkniętym pojemniku:Risk of explosion if heated under confinement:GHS01:U:
+EUH 029:W kontakcie z wodą uwalnia toksyczne gazy:Contact with water liberates toxic gas:GHS02, GHS06:U:
+EUH 031:W kontakcie z kwasami uwalnia toksyczne gazy:Contact with acids liberates toxic gas:GHS06:U:
+EUH 032:W kontakcie z kwasami uwalnia bardzo toksyczne gazy:Contact with acids liberates very toxic gas:GHS06:U:
+EUH 066:Powtarzające się narażenie może powodować wysuszanie lub pękanie skóry:Repeated exposure may cause skin dryness or cracking:GHS07:U:
+EUH 070:Działa toksycznie w kontakcie z oczami:Toxic by eye contact:GHS05,GHS06:U:
+EUH 071:Działa drażniąco na drogi oddechowe:Corrosive to the respiratory tract:GHS08:U:
+EUH 059:Stwarza zagrożenie dla warstwy ozonowej:Hazardous to the ozone layer:GHS09:U:
+EUH 201:Zawiera ołów; nie należy stosować na powierzchniach, które mogą być gryzione lub ssane przez dzieci:Contains lead; should not be used on surfaces liable to be chewed or sucked by children:GHS06:U:
+EUH 201A:Uwaga! Zawiera ołów.:Warning! Contains lead.:GHS06:U:
+EUH 202:Cyjanoakrylany. Niebezpieczeństwo. Skleja skórę i powieki w ciągu kilku sekund. Chronić przed dziećmi.:Cyanoacrylate. Danger. Bonds skin and eyes in seconds. Keep out of the reach of children.:GHS05,GHS07:U:
+EUH 203:Zawiera chrom(VI). Może powodować wystąpienie reakcji alergicznej.:Contains chromium(VI). May produce an allergic reaction.:GHS07:U:
+EUH 204:Zawiera izocyjaniany. Może powodować wystąpienie reakcji alergicznej.:Contains isocyanates. May produce an allergic reaction.:GHS07:U:
+EUH 205:Zawiera składniki epoksydowe. Może powodować wystąpienie reakcji alergicznej.:Contains epoxy constituents. May produce an allergic reaction.:GHS07:U:
+EUH 206:Uwaga! Nie stosować razem z innymi produktami. Może wydzielać niebezpieczne gazy (chlor).:Warning! Do not use together with other products. May release dangerous gases (chlorine).:GHS03, GHS07:U:
+EUH 207:Uwaga! Zawiera kadm. Podczas stosowania wydziela niebezpieczne pary. Zapoznaj się z instrukcją dostarczoną przez producenta. Przestrzegaj instrukcji bezpiecznego stosowania.:Warning! Contains cadmium. Dangerous fumes are formed during use. See information supplied by the manufacturer. Comply with the safety instructions.:GHS08:U:
+EUH 208:Zawiera ............ . Może powodować wystąpienie reakcji alergicznej.:Contains <name of sensitising substance>. May produce an allergic reaction.:GHS07:U:
+EUH 209:Podczas stosowania może przekształcić się w substancję wysoce łatwopalną.:Can become highly flammable in use.:GHS02:U:
+EUH 209A:Podczas stosowania może przekształcić się w substancję łatwopalną.:Can become flammable in use.:GHS02:U:
+EUH 210:Karta charakterystyki dostępna na żądanie.:Safety data sheet available on request.::U:
+EUH 401:W celu uniknięcia zagrożeń dla zdrowia ludzi i środowiska, należy postępować zgodnie z instrukcją użycia.:To avoid risks to human health and the environment, comply with the instructions for use::U:
