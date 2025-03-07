@@ -4,10 +4,10 @@ import reflex as rx
 
 from chemicy.backend.department.DepartmentDto import DepartmentDto
 from chemicy.backend.faculty.FacultyDto import FacultyDto
-from chemicy.backend.faculty.FacultyService import get_all_faculties
+from chemicy.backend.faculty.FacultyService import get_all_faculties, get_all_faculties_db
 from chemicy.backend.user.UserDto import UserDto
 
-from chemicy.backend.user.UserService import get_user_status_by_name, create_user, check_email_exits
+from chemicy.backend.user.UserService import create_user, check_email_exits
 
 class RegisterState(rx.State):
     user: UserDto = UserDto()
@@ -20,7 +20,7 @@ class RegisterState(rx.State):
     def init_state(self):
         self.register_valid = False
         self.user = UserDto()
-        self.faculties = get_all_faculties()
+        self.faculties = get_all_faculties_db()
         self.faculty_names = [f.name for f in self.faculties]
         self.departments = []
 

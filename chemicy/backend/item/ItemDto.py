@@ -20,8 +20,15 @@ class ItemDto(rx.base.Base):
     owner_name: str = ""
     cas: str = ""
 
+    danger_status: str = "Uwaga"
+
     p_codes: List[str] = []
+    p_warning_codes_pl: List[str] = []
+    p_warning_codes_en: List[str] = []
+
     h_codes: List[str] = []
+    h_warning_codes_pl: List[str] = []
+    h_warning_codes_en: List[str] = []
 
     pictogram_paths: List[str] = []
 

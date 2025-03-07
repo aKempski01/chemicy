@@ -51,7 +51,7 @@ def insert_ph_codes():
         d[i, -1] = stat_ids[d[i, -1]]
         d[i, 0] = d[i, 0].replace(" ", "")
 
-    crsr.executemany("INSERT INTO ph_code (code, warning_text_pl, warning_text_en, id_status) VALUES (?, ?, ?, ?)", d)
+    crsr.executemany("INSERT INTO ph_code (code, warning_text_en, warning_text_pl, id_status) VALUES (?, ?, ?, ?)", d)
 
 
     df = pd.read_csv("assets/tables_db_init/H.csv", sep=':')
@@ -98,7 +98,7 @@ def insert_ph_codes():
                 pic_id = row[0]
                 crsr.execute("INSERT INTO pictogram_ph_code (id_PH_code, id_pictogram) VALUES (?, ?)", [code_id, pic_id])
 
-    connection.commit()
+    # connection.commit()
 
 
 def insert_classification(ph_ids: list):
@@ -188,14 +188,14 @@ def insert_items():
 
 
 def main():
-    insert_user_status()
-    insert_item_status()
-    insert_user_rights()
-    insert_pictogram_paths()
-    insert_code_statuses()
+    # insert_user_status()
+    # insert_item_status()
+    # insert_user_rights()
+    # insert_pictogram_paths()
+    # insert_code_statuses()
     insert_ph_codes()
-    insert_locations()
-    insert_items()
+    # insert_locations()
+    # insert_items()
 
 if __name__ == "__main__":
     main()

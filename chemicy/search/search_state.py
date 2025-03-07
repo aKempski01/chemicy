@@ -17,7 +17,6 @@ class SearchState(SessionState):
 
     def init_state(self) -> None:
         self.user_items = get_all_items_db()
-        print(self.user_items)
         self.users = get_all_user_db()
 
 

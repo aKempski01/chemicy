@@ -41,6 +41,8 @@ def search_page():
     return rx.container(
         rx.hstack(
             rx.cond(SessionState.user.rights == "Admin", rx.button("Panel Administratora", on_click=rx.redirect('/admin'))),
+            rx.cond(SessionState.user.rights == "SuperAdmin",
+                    rx.button("Panel Administratora", on_click=rx.redirect('/admin'))),
             add_mew_item_dialog()
         ),
         get_table(),

@@ -120,7 +120,9 @@ def _editable_dialog(item: ItemDto):
                     direction="row",
                 ),
                 rx.cond(ItemState.editable & ~ItemState.edit_mode,
-                        rx.button("Edytuj", size= "3", on_click=ItemState.edit_btn),
+                        rx.hstack(
+                            rx.button("Edytuj", size= "3", on_click=ItemState.edit_btn, margin_top="5px", margin_bottom = "10px"),
+                        rx.button("Drukuj Etykietę", size = "3", on_click=ItemState.print_label, margin_left = "5px", margin_top="5px", margin_bottom = "10px")),
                         None),
             ),
 
